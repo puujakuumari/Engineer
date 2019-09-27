@@ -1,0 +1,35 @@
+java -jar -Dlocations="LOC1, LOC2" -DfileName=Ibilik -Dperiod=7/28 Ibilik.jar
+
+
+java -jar -Dlocations="johor,kedah" -DfileName=Ibilik1 -Dstart=1 -Dend=3000 -Dperiod=7  Ibilik.jar
+
+java -jar -Dlocations="kelantan,kuala_lumpur" -DfileName=Ibilik2 -Dstart=1 -Dend=3000 -Dperiod=7  Ibilik.jar
+
+java -jar -Dlocations="melaka,negeri_sembilan" -DfileName=Ibilik3 -Dstart=1 -Dend=3000 -Dperiod=7  Ibilik.jar
+
+java -jar -Dlocations="pahang,penang" -Dstart=1 -Dend=3000 -DfileName=Ibilik4 -Dperiod=7  Ibilik.jar
+
+java -jar -Dlocations="perak,perlis,terengganu" -DfileName=Ibilik5 -Dstart=1 -Dend=3000 -Dperiod=7  Ibilik.jar
+
+java -jar -Dlocations="sabah,sarawak" -DfileName=Ibilik6 -Dstart=1 -Dend=3000 -Dperiod=7  Ibilik.jar
+
+java -jar -Dlocations="selangor" -DfileName=Ibilik7 -Dstart=1 -Dend=3000 -Dperiod=7  Ibilik.jar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
