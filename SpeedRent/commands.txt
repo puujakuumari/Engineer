@@ -1,0 +1,8 @@
+java -jar -Dstates="cyberjaya,petaling-jaya,shah-alam,cheras,ara-damansara"  -DfileName=SpeedRent1 -Dperiod= SpeedRent.jar
+
+
+java -jar -Dstates="bandar-utama,bukit-jalil,gombak,sentul,wangsa-maju,damansara"  -DfileName=SpeedRent2 -Dperiod=7 SpeedRent.jar
+
+java -jar -Dstates="bangsar,puchong,subang-jaya,kajang,kelana-jaya"  -DfileName=SpeedRent3 -Dperiod=7 SpeedRent.jar
+
+java -jar -Dstates="kepong,kota-damansara,old-klang-road,klang,kuala-lumpur"  -DfileName=SpeedRent4 -Dperiod=7 SpeedRent.jar
